@@ -1,0 +1,15 @@
+#wrapper{width:1030px;height:600px;border:#000 solid 10px;border-radius:50px;-moz-border-radius:10px;-webkit-border-radius:10px;margin:5% auto;background:#000;overflow:hidden}
+#player-title{background:#000 url("../images/player-title.png") no-repeat center top;width:240px;height:45px;text-indent:-9999px;margin:10px 0 10px 65px}
+#mediaplayer{margin:0 0 0 70px}
+#action-icons{margin-left:20px}
+#gemai{background:transparent url("../images/gemai-btn.png") no-repeat center top;width:61px;height:60px;text-indent:-9999px;display:block;margin-bottom:5px}
+#info{background:transparent url("../images/info-btn.png") no-repeat center top;width:60px;height:60px;text-indent:-9999px;display:block;margin-bottom:5px}
+#prev{background:transparent url("../images/preview-btn.png") no-repeat center top;width:60px;height:60px;text-indent:-9999px;display:block;margin-bottom:5px}
+#stream{background:transparent url("../images/stream-btn.png") no-repeat center top;width:60px;height:60px;text-indent:-9999px;display:block;margin-bottom:5px}
+#rent{background:transparent url("../images/rent-btn.png") no-repeat center top;width:60px;height:60px;text-indent:-9999px;display:block;margin-bottom:5px}
+#buy{background:transparent url("../images/buy-btn.png") no-repeat center top;width:60px;height:60px;text-indent:-9999px;display:block;margin-bottom:5px}
+#gift{background:transparent url("../images/gift-btn.png") no-repeat center top;width:60px;height:60px;text-indent:-9999px;display:block;margin-bottom:5px}
+#share{background:transparent url("../images/share-btn.png") no-repeat center top;width:60px;height:60px;text-indent:-9999px;display:block;margin-bottom:5px}
+#aff{background:transparent url("../images/aff-btn.png") no-repeat center top;width:58px;height:69px;text-indent:-9999px;display:block;margin-bottom:5px}
+a{color:#fc0;text-decoration:none;font-family:verdana,sans-serif}
+.overlayer{width:856px;height:450px;position:relative;top:-529px;left:70px;background:#fff;display:inline-block;opacity:.9;filter:alpha(opticity=90%);padding:10px;float:left}

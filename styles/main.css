@@ -1,0 +1,241 @@
+#wrapper{
+
+    width: 1030px;
+    height: 600px;
+    border: #000 solid 10px;
+    border-radius: 50px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    margin: 5% auto;
+    background: #000;
+    overflow: hidden;
+}
+
+img{ vertical-align: middle; }
+
+#player{}
+
+#player-title{
+
+    background: #000 url("../images/player-title.png") no-repeat center top;
+    width: 240px;
+    height: 45px;
+    text-indent: -9999px;
+    margin: 10px 0px 10px 65px;
+}
+
+#mediaplayer{ margin: 0px 0px 0px 70px; }
+
+#share-icons{ margin: 10px 0px 0px 70px; }
+
+
+#share-follow{
+
+    background: transparent url("../images/follow-btn.png") no-repeat center top;
+    width: 60px;
+    height: 53px;
+    text-indent: -9999px;
+    display: inline-block;
+}
+
+#share-share{
+
+    background: transparent url("../images/share-btn-b.png") no-repeat center top;
+    width: 60px;
+    height: 53px;
+    text-indent: -9999px;
+    display: inline-block;
+}
+
+#share-embed{
+
+    background: transparent url("../images/embed-btn.png") no-repeat center top;
+    width: 60px;
+    height: 53px;
+    text-indent: -9999px;
+    display: inline-block;
+}
+
+#share-website, #share-news, #share-theater{
+
+    color: #47bcff;
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 0px 10px;
+    position: relative;
+    top: 15px;
+}
+
+#share-website{ margin-left: 110px; }
+
+#action-icons{ margin-left: 20px; }
+
+#gemai{
+
+    background: transparent url("../images/gemai-btn.png") no-repeat center top;
+    width: 61px;
+    height: 60px;
+    text-indent: -9999px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#info{
+
+    background: transparent url("../images/info-btn.png") no-repeat center top;
+    width: 60px;
+    height: 60px;
+    text-indent: -9999px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#prev{
+
+    background: transparent url("../images/preview-btn.png") no-repeat center top;
+    width: 60px;
+    height: 60px;
+    text-indent: -9999px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#stream{
+
+    background: transparent url("../images/stream-btn.png") no-repeat center top;
+    width: 60px;
+    height: 60px;
+    text-indent: -9999px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#rent{
+
+    background: transparent url("../images/rent-btn.png") no-repeat center top;
+    width: 60px;
+    height: 60px;
+    text-indent: -9999px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#buy{
+
+    background: transparent url("../images/buy-btn.png") no-repeat center top;
+    width: 60px;
+    height: 60px;
+    text-indent: -9999px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#gift{
+
+    background: transparent url("../images/gift-btn.png") no-repeat center top;
+    width: 60px;
+    height: 60px;
+    text-indent: -9999px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#share{
+
+    background: transparent url("../images/share-btn.png") no-repeat center top;
+    width: 60px;
+    height: 60px;
+    text-indent: -9999px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+#aff{
+
+    background: transparent url("../images/aff-btn.png") no-repeat center top;
+    width: 58px;
+    height: 69px;
+    text-indent: -9999px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+a{
+    color: #fff;
+    text-decoration: none;
+    font-family: verdana, sans-serif;
+}
+
+.overlayer{
+
+    width: 856px;
+    height: 450px;
+    position: relative;
+    top: -533px;
+    left: 70px;
+    background: #000;
+    color: #fff;
+    display: block;
+    opacity: 0.98;
+    filter: alpha(opticity=98%);
+    padding: 10px;
+    font-family: arial,sans-serif;
+    font-size: 100%;
+}
+
+#info-nav-bar{
+
+   background: #427683;
+   padding: 5px;
+}
+
+.nav-bar-sub{
+
+    background: #44575e;
+    padding: 4px 5px;
+    margin: 2px 0px;
+}
+
+.nav-bar-sub:hover{ cursor: pointer; }
+
+.nav-bar-sub a{
+
+    font-size: 80%;
+    margin-left: 5px;
+    text-transform: capitalize;
+}
+
+#add-video-main h2{
+
+    margin: 0px;
+    padding: 0px;
+    padding-bottom: 5px;
+    border-bottom: #0eb8ec solid 1px;
+}
+
+#add-video{
+
+    margin-top: 10px;
+    width: 640px;
+    height: 208px;
+    overflow-x: auto;
+}
+
+#add-video-b{
+
+    width: 1000px;
+}
+
+.add-vid-sub{
+
+    float: left;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.share-text{
+
+    color: #5cd9b7;
+    font-size: 140%;
+    font-weight: 700;
+}
